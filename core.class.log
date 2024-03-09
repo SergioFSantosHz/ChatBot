@@ -1,0 +1,121 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115810203@s.whatsapp.net',
+    fromMe: false,
+    id: '2B2FA96FA1534C1A8DA902EC07484744',
+    participant: undefined
+  },
+  messageTimestamp: 1710006008,
+  pushName: 'Sergio Santos',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573115810203'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ca8fe4d0-a298-438e-b1ba-20fe112215a7',
+  keyword: 'key_5cbd52ac-282f-4def-8d16-1cfba4a6eacc',
+  answer: 'Hola, bienvenido al asistente de recomendación para tarjetas gráficas.\n' +
+    '¿Cómo puedo ayudarte el día de hoy? 🙂\n' +
+    'Dime en cuál de estos casos necesitas asistencia...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '49c026d36e70ff4e8f9a24617e8590e1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c792b337-5531-4343-bb22-e1f601792138',
+  keyword: 'ans_ca8fe4d0-a298-438e-b1ba-20fe112215a7',
+  answer: 'Digite el número de la opción que corresponda a tu caso.\n' +
+    '1. Gaming.\n' +
+    '2. Diseño gráfico.\n' +
+    '3. Edición de video.\n' +
+    '4. Trabajo en 3D y Modelado.\n' +
+    '5. Minería de criptomonedas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0f3722546ba2dadd3a8b10a5b886fc61'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115810203@s.whatsapp.net',
+    fromMe: false,
+    id: '0A9AF57B1662D69F7FDF7706B725D788',
+    participant: undefined
+  },
+  messageTimestamp: 1710006012,
+  pushName: 'Sergio Santos',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '573115810203'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a5a26be0-8d2a-458e-95ae-1b9e46e0e45b',
+  keyword: 'ans_c792b337-5531-4343-bb22-e1f601792138',
+  answer: 'Ingrese la opción: ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '37af3c0f0a7e5d6a109c49991e13b316'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573115810203@s.whatsapp.net',
+    fromMe: false,
+    id: '4C89E18D1B300B263F3AE9D465B2E073',
+    participant: undefined
+  },
+  messageTimestamp: 1710006015,
+  pushName: 'Sergio Santos',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '7',
+  from: '573115810203'
+}
